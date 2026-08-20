@@ -1,4 +1,4 @@
-
+<h1>OBSOLETO</h1>
 Plano de Teste - Sistema de Gerenciamento de Reservas
 
 1. Introdução
